@@ -81,7 +81,7 @@ function App() {
         <button type="submit">Tambah</button>
       </form>
 
-      <h1>To do LIST!</h1>
+      <h1>CRUD!</h1>
 
       <List data={data} handleEdit={handleEdit} handleDelete={handleDelete} />
     </>
